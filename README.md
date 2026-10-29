@@ -28,8 +28,8 @@ Solo 22 de 30 pedidos (73.3 %) estaban listos a las 07:30, la hora de salida del
 
 La meta de 95 % **aún no se alcanza**; el plan de control y la fase de validación buscan cerrar la brecha.
 
-![Mapa AS-IS / TO-BE](images/01_mapa_proceso_asis_tobe.png)
-![Distribución de tiempos](images/02_distribucion_tiempos_antes_despues.png)
+![Mapa AS-IS / TO-BE](01_mapa_proceso_asis_tobe.png)
+![Distribución de tiempos](02_distribucion_tiempos_antes_despues.png)
 
 ## 🛠️ Herramientas
 SIPOC · VOC/CTQ · Mapa de proceso · Diagrama de Ishikawa · Pruebas de hipótesis (Welch t, Fisher, z) · Intervalos de confianza · DPMO y Sigma · Matriz de selección · 5S · Gestión visual · Carta de control
